@@ -1,0 +1,5 @@
+*.zip
+*.pdf
+*.txt
+.ipynb_checkpoints
+*.csv
