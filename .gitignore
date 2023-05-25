@@ -3,3 +3,6 @@
 *.txt
 .ipynb_checkpoints
 *.csv
+*.png
+*.jpg
+.gitignore
