@@ -4,6 +4,8 @@
 import pandas as pd
 import streamlit as st
 import pickle
+# Downloading the nltk package
+nltk.download('wordnet')
 import nltk
 from nltk.stem import WordNetLemmatizer
 import altair as alt
