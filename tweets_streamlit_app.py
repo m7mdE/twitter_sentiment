@@ -6,6 +6,7 @@ import streamlit as st
 import pickle
 # Downloading the nltk package
 import nltk
+nltk.download('wordnet')
 from nltk.stem import WordNetLemmatizer
 import altair as alt
 
