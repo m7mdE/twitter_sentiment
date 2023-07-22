@@ -29,5 +29,5 @@ I have built out a mini-app Tweet that predicts if a tweet is either positive of
 
 A screenshot of the mini-app
 
-<img src="./twitter_sentiment_screenshot.png" width="600" height="auto" title="Twitter Senitment Mini-app" alt="Streamlit Mini-app Twitter Sentiment" />
+<img src="images/twitter_sentiment_screenshot.png" width="600" height="auto" title="Twitter Senitment Mini-app" alt="Streamlit Mini-app Twitter Sentiment" />
 
